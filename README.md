@@ -52,7 +52,8 @@ v. Unless you are managing the OAuth from your client side Javascript code (Not 
 <br>
 vi. And finally, click the blue SAVE button down at the bottom of the page and you should now see a modal with your credentials in it. Save them somewhere safe (.env file, etc.) and you should be ready to move on to your application code! Congratulations on survivng the drudgery of the Google Cloud Console!!<br>
 <br>
-<img width="509" alt="credentials" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/74962756-1465-4e23-80a3-7843092ddf4a">
+<img width="509" alt="credentials" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/23fa0f2c-4fe3-44fa-a48a-3c909b2e94c0">
+
 
 
 
