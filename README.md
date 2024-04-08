@@ -16,3 +16,6 @@ iii. Once there, you will want to select a "User Type". In our case, we want to 
 <br>
 iv. On the following screen (depicted below), we must enter some more data. The first piece of data is our App name. Followed by a User support email (our GCP user email is a fine choice.) and then all the way at the bottom, you will want to enter your Developer contact information (again, probably your GCP user email.). When you've done all of that, click SAVE AND CONTINUE at the bottom.<br>
 <img width="1565" alt="consent" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/aaabbc0c-f432-4c77-8318-bd3fdbb013fc">
+v. On the following page Scopes (depicted below), we do not need to make any changes here. We can simply click the SAVE AND CONTINUE button and continue our journey.<br>
+<img width="1293" alt="oauth_scopes_screen" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/daa6f679-8486-424c-845e-57d68a2add29">
+
