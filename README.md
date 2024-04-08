@@ -33,8 +33,10 @@ vii. The Summary page (depicted below) is just that! A summary!! Unless you will
 <br>
 <img width="1361" alt="oauth_consent_back_to_dash" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/e1e2c4ab-c9a8-4d2a-af23-63ddb3d5482b"><br>
 <br>
+## Step 4: Client Credentials
 
-
-
-
+i. Now click the Credentials button in the navbar on the left and then click the + CREATE CREDENTIALS button that appears at the top of the resultant screen.<br>
+<br>
+<img width="1572" alt="to_credentials" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/6fc39252-cca8-4ada-89cc-3aeab525ec5d"><br>
+<br>
 
