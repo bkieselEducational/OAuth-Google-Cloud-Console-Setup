@@ -23,12 +23,18 @@ v. On the following page Scopes (depicted below), we do not need to make any cha
 <br>
 <img width="1293" alt="oauth_scopes_screen" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/daa6f679-8486-424c-845e-57d68a2add29"><br>
 <br>
-vi. Now on the Test User screen (depicted below) we must authorize a test user who can access the API on behalf of our app. Click the + ADD USERS button, which will open up a sidebar on the right of the screen. Within that sidebar you can now enter the email for your test user (Again, your GCP user is a good candidate!) and then click the blue ADD button. If things have gone well, you should see your user's email in the list of Test Users back on the left side of the screen.<br>
+vi. Now on the Test User screen (depicted below) we must authorize a test user who can access the API on behalf of our app. Click the + ADD USERS button, which will open up a sidebar on the right of the screen. Within that sidebar you can now enter the email for your test user (Again, your GCP user is a good candidate!) and then click the blue ADD button. If things have gone well, you should see your user's email in the list of Test Users back on the left side of the screen. Click the SAVE AND CONTINUE button to proceed!<br>
 <br>
 <img width="1483" alt="oauth_test_user_entry" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/6006ac30-ab3b-4e9f-acfa-fce2e2416f47"><br>
 <br>
 <img width="1345" alt="oauth_test_user_after" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/a9a919f7-37e5-4041-844c-676630226d11"><br>
 <br>
+vii. The Summary page (depicted below) is just that! A summary!! Unless you will be adding things, such as an application Logo, etc. feel free to click the BACK TO DASHBOARD button at the bottom!<br>
+<br>
+<img width="1361" alt="oauth_consent_back_to_dash" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/e1e2c4ab-c9a8-4d2a-af23-63ddb3d5482b"><br>
+<br>
+
+
 
 
 
