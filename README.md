@@ -44,8 +44,8 @@ ii. You should now see a drop-down menu displayed (as depicted below). Click the
 <br>
 <img width="447" alt="credentials_dropdown" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/22ec2807-9e5e-4399-9d55-e530b677fc73"><br>
 <br>
-iii. At this point you should be seeing the Create OAuth Client ID for Web Application page and will have some inputs to fill out. Firstly, from the drop-down menu at the top, select the Application Type, which should be set to the first option in the list Web Application.<br>
-iv. Next, move down to the next box and give your Application a Name.<br>
+iii. At this point you should be seeing the Create OAuth Client ID for Web Application page and will have some inputs to fill out. Firstly, from the drop-down menu at the top, select the Application Type, which should be set to the first option in the list Web Application. (Not depicted)<br>
+iv. Next, move down to the next box and give your Application a Name. (Depicted)<br>
 v. Unless you are managing the OAuth from your client side Javascript code (Not Recommended), there is no reason to fill out the "Authorized Javascript Origins". You can go down to the Authorized Redirect URIs and make two entries there. the first should use localhost as the domain so that you can test locally. The other should use your Render domain so that OAuth will also work in production!<br>
 <br>
 <img width="1577" alt="client_credentials" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/b87c082b-5d7c-4537-916f-d096b5731f2f"><br>
