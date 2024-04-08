@@ -40,3 +40,9 @@ i. Now click the Credentials button in the navbar on the left and then click the
 <img width="1572" alt="to_credentials" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/6fc39252-cca8-4ada-89cc-3aeab525ec5d"><br>
 <br>
 
+ii. You should now see a drop-down menu displayed (as depicted below). Click the option OAuth Client ID.<br>
+<br>
+<img width="447" alt="credentials_dropdown" src="https://github.com/bkieselEducational/OAuth-Google-Cloud-Console-Setup/assets/131717897/22ec2807-9e5e-4399-9d55-e530b677fc73"><br>
+<br>
+
+
